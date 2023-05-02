@@ -1,0 +1,132 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+}
+
+/* Stile dell'header e Logo */
+header{
+    height: 150px;
+    background-color: #4EA0FF;
+    background-image: url("../img/pattern.png");
+    background-repeat:repeat-x;
+    background-size: 50%;
+    padding-left: 10%;
+}
+
+#logo{
+   margin-top: 2%;
+}
+
+/* Stile del main e varie section */
+
+main{
+    margin-top: 1%;
+    margin-left: 10%;
+    margin-right: 10%;
+
+}
+
+section >h1{
+    font-size: 64px;
+}   
+
+.section-fontsize{
+    font-size: 20px;
+
+}
+
+#blue-span{
+    color: #3EBDFF;
+    font-weight: bolder;
+
+}
+
+#writtenby{
+    font-size: 22px;
+    color: gray;
+
+}
+
+#photo-credit{
+    margin-bottom: 25px;
+    font-size: 18px;
+
+}
+
+section > p{
+    margin-bottom: 2%;
+}
+
+.yellow-highlight{
+    background-color: yellow;
+
+}
+
+#main-ul{
+    margin-bottom: 2%;
+}
+
+
+#data-table{
+    width: 100%;
+    margin-bottom: 2%;
+
+}
+
+.large-col{
+    width: 60%;
+
+}
+th{
+    text-align: left;
+    background-color: #20a9e5;
+    color:white;
+
+}
+
+
+.lightblue-row{
+    background-color: #b1e5f2;
+
+}
+
+
+/* Stile del footer */
+
+footer{
+    margin-left: 10%;
+    
+
+}
+#suggestion{
+    display: block;
+    color:grey;
+    font-size: 18px;
+    font-weight: bolder;
+    margin-bottom: 1%;
+}
+#first-suggestion{
+    background-image: url(../img/monitor.jpg);
+}
+
+#second-suggestion{
+    background-image: url(../img/graph.jpg);
+
+}
+
+footer > div{
+    padding-top: 1%;
+    margin-bottom: 1%;
+    width: 20%;
+    height: 200px;
+    background-size: contain;
+
+}
+
+.suggestion-span{
+    
+    color: white;
+    font-size: 22px;
+    font-weight: bolder;
+    margin-left: 5%;
+}
