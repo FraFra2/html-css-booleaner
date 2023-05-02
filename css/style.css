@@ -31,6 +31,7 @@ section >h1{
 
 #blue-span{
     color: #3EBDFF;
+    font-weight: bolder;
 
 }
 
@@ -38,4 +39,26 @@ section >h1{
     font-size: 22px;
     color: gray;
 
+}
+
+#photo-credit{
+    margin-bottom: 25px;
+    font-size: 18px;
+
+}
+
+
+#introduction{
+    font-size: 20px;
+    margin-bottom: 2%;
+
+}
+
+.yellow-highlight{
+    background-color: yellow;
+
+}
+
+#main-ul{
+    margin-bottom: 2%;
 }
