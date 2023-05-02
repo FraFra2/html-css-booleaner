@@ -16,3 +16,26 @@ header{
 #logo{
    margin-top: 2%;
 }
+
+/* Stile del main e varie section */
+
+main{
+    margin-top: 1%;
+    margin-left: 1%;
+
+}
+
+section >h1{
+    font-size: 64px;
+}   
+
+#blue-span{
+    color: #3EBDFF;
+
+}
+
+#writtenby{
+    font-size: 22px;
+    color: gray;
+
+}
